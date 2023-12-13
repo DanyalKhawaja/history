@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is one two three four five six seven
+=======
+this is one two
+>>>>>>> parent of 68addad (Merge pull request #2 from DanyalKhawaja/t)
